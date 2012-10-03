@@ -1,0 +1,3 @@
+./holas/
+./zmena/
+./zvyazda/
