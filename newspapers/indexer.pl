@@ -3,7 +3,7 @@ use locale;
 use Storable;
 
 %inverted_index = ();
-%wforms_count = ();
+%words = ();
 
 open (FILEIN, "<dirlist.txt");
 while (<FILEIN>) { chomp; push @dirlist, $_; }
@@ -11,6 +11,7 @@ close (FILEIN);
 
 foreach $current_dir (@dirlist)
 	{
+	$current_dir .= "t/";
 	opendir (INPUT, $current_dir);
 	while (defined ($handle = readdir(INPUT)))
 		{
@@ -18,22 +19,26 @@ foreach $current_dir (@dirlist)
 			{
 			$inhandle = $current_dir . $handle;
 			open (ITEM, "<$inhandle");
+			$line_counter = 0;
 			while (<ITEM>)
 				{
+				++$line_counter;
 				chomp;
-				$_ =~ s/[^à-ÿ¢¸³'À-ß¡¨²a-zA-Z0-9\-]/ /g;
-				$_ =~ s/\s+/ /g;
-				@wforms = map { unless ($_ eq "") { lc($_); } } split (" ", $_);
-				foreach (@wforms) { $inverted_index{$_}{$inhandle}++; }
-				$wforms_count{$inhandle} += scalar (@wforms);
+				++$inverted_index{$_}{$inhandle . "\t" . $line_counter};
+				++$words{$_};
+				++$size{$handle};
 				}
 			close (ITEM);
 			}
 		}
 	}
 
-store \%inverted_index, 'index_regex.dat';
+store \%inverted_index, 'index.dat';
+
+open (FILEOUT, ">wforms.txt");
+foreach (keys %words) { print FILEOUT "$_\t$words{$_}\n"; }
+close (FILEOUT);
 
 open (FILEOUT, ">wforms_count.txt");
-foreach (keys %wforms_count) { print FILEOUT "$_\t$wforms_count{$_}\n"; }
+foreach (keys %size) { print FILEOUT "$_\t$size{$_}\n"; }
 close (FILEOUT);

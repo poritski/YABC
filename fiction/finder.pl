@@ -4,9 +4,9 @@ use Storable;
 use Encode;
 use List::Util;
 
-$width = 100; # left & right context width in symbols
+$width = 10; # left & right context width in tokens
 
-$hashref = retrieve('index_regex.dat');
+$hashref = retrieve('index.dat');
 %inverted_index = %{$hashref};
 
 open (WORDLIST, "<wordlist.txt");
@@ -15,37 +15,52 @@ while (<WORDLIST>)
 	chomp;
 	unless (/^\#/) # except those queries which are commented out
 		{
-		if (/\t/) { ($query, $signature) = split (/\t/, $_); }
-		else { ($query, $signature) = ($_, $_); } # otherwise
+		($query, $signature) = ($_, $_); # by default
+		if (/\t/) { ($query, $signature) = split (/\t/, $_); } # queries with IDs
 		push @queries, $query;
 		$substitute{$query} = $signature;
 		}
 	}
 close (WORDLIST);
 
-open (FILEOUT, ">results_regex.txt");
+# Only single-word queries are currently served
+%relevant = ();
 foreach $query (@queries)
 	{
-	@relevant = sort grep { /(^|\-)$query(\-|$)/ } keys %inverted_index; # BEWARE! To be improved
-	foreach $instance (@relevant)
+	foreach (grep { /(^|\-)$query(\-|$)/ } keys %inverted_index) # HERE BE DRAGONS!!!
+		{ ++$relevant{$_}{$substitute{$query}}; }
+	}
+@ambiguous = grep { scalar (keys %{$relevant{$_}}) > 1 } keys %relevant;
+if (@ambiguous) { print "The following tokens are matched by more than one query:\n" . join ("\n", @ambiguous); }
+
+# Now let's speed up the search
+@actual = keys %relevant;
+%files_to_open = ();
+foreach $token (@actual)
+	{
+	@src_queries = keys %{$relevant{$token}};
+	foreach $location (keys %{$inverted_index{$token}})
 		{
-		foreach $handle (keys %{$inverted_index{$instance}})
-			{
-			$i = 0;
-			open ($filein, "<$handle");
-			{ local $/; $contents = <$filein>; }
-			$contents =~ s/(\-)+/-/g;
-			$contents =~ s/\s+/ /igsx;
-			# BEWARE! To be improved
-			while ($contents =~ /(.{0,$width}[^à-ÿ¢³'À-ß¡²a-zA-Z])($instance)(?'right'[^à-ÿ¢³'À-ß¡²a-zA-Z].{0,$width})/igs)
-				{
-				print FILEOUT "$handle\t$substitute{$query}\t$instance\t$1\t$2\t$+{right}\n";
-				$i++;
-				}
-			close ($filein);
-			unless ($i == $inverted_index{$instance}{$handle})
-				{ print FILEOUT "The search results on $handle may be inconsistent: $inverted_index{$instance}{$handle} awaited, $i found.\n"; }
-			}
+		($file, $line) = split (/\t/, $location);
+		foreach (@src_queries) { ++$files_to_open{$file}{$line - 1 . "\t" . $_}; }
+		}
+	}
+
+open (FILEOUT, ">results.txt");
+foreach $f (keys %files_to_open)
+	{
+	open (DATA, "<$f");
+	{ local $/; $contents = <DATA>; }
+	close (DATA);
+	@lines = split (/\n/, $contents);
+	foreach $pair (keys %{$files_to_open{$f}})
+		{
+		($l, $id) = split (/\t/, $pair);
+		if ($l - $width < 0) { $start = 0; }
+		else { $start = $l - $width; }
+		if ($l + $width > $#lines) { $finish = $#lines; }
+		else { $finish = $l + $width; }
+		print FILEOUT join ("\t", ($f, $id, $lines[$l], join (" ", @lines[$start..$l-1]), $lines[$l], join (" ", @lines[$l+1..$finish]))) . "\n";
 		}
 	}
 close (FILEOUT);
