@@ -18,10 +18,13 @@ So far we have the following directory tree:
    *  `/holas`
    *  `/zmena`
    *  `/zvyazda`
+*  `/np_old`
 
 Here `/fiction` stands just for belorussian prose fiction. A minimalistic sample of present-day prose published in 2009...2011 by [_Dziejaslou_](http://www.dziejaslou.by), [_Maladosc'_](http://www.maladost.lim.by), and [_Polymya_](http://www.polymja.lim.by) literary magazines is grouped into `/mags` subdirectory (with respective subcategorization inside, 10 files in each folder), while `/kolas` contains a significant part of non-poetic heritage left by Yakub Kolas (1882-1956); as far as we know, these texts are in public domain since 2006.
 
-Unsurprisingly, `/newspapers` is a teaser collection of belorussian newspaper articles dating back to 2008-2009. We've crawled three newspaper sites with publicly available archives, [_Zvyazda_](http://www.zvyazda.minsk.by/ru/main), [_Chyrvonaja zmena_](http://www.zvyazda.minsk.by/ru/pril/index.php?id=30), and [_Holas Radzimy_](http://www.golas.by), to obtain 9.2 thousand articles in total. Three samples currently being delivered are 150 files each.
+Unsurprisingly, `/newspapers` is a teaser collection of belorussian newspaper articles from years 2008-2009. We've crawled three newspaper sites with publicly available archives, [_Zvyazda_](http://www.zvyazda.minsk.by/ru/main), [_Chyrvonaja zmena_](http://www.zvyazda.minsk.by/ru/pril/index.php?id=30), and [_Holas Radzimy_](http://www.golas.by), to obtain 9.2 thousand articles in total. Three samples currently being delivered are 150 files each.
+
+`/np_old` is a preview of OCRed belorussian newspapers dating back to 1961-1962. Digital copies have been kindly provided by [National library of Belarus)](http://nlb.by). We've processed them with ABBYY FineReader and done some automated and semi-automated postediting to obtain a searchable collection spanning one year for both _Holas Radzimy_ and [_Litaratura i mastactva_](http://www.main.lim.by). The preview sample contains _LiM_ for January 1961 and _Holas Radzimy_ for January 1962.
 
 There are two subfolders, `/r` and `/t`, inside each of the said folders: `/r` contains raw text data, while `/t` is the destination place for tokenized texts (cf. software description below).
 
@@ -31,7 +34,7 @@ In `/mags/mal` and `/mags/pol`, file names are self-explanatory. E.g. `PROSE_m1-
 
 Yakub Kolas's trilogy _Na rostanyakh_ is presented in `/kolas` chapterwise with initial "r" in file names, so that, e.g., chapter 7 of the second part would be entitled `r2_7`. Likewise, chapters of _Drygva_ novel have initial "d" in their names. Initial "k" marker is associated with short stories _Kazki zhycia_.
 
-Naming of newspaper articles in our text sample is rather unsystematic. Except for `/newspapers/holas`, we use five-digit numeric identifiers inherited from the online archives. Text files sampled from _Holas Radzimy_ are enumerated consistently, `1` to `150`.
+Naming of newspaper articles in our text sample is rather unsystematic. Except for `/newspapers/holas`, we use five-digit numeric identifiers inherited from the online archives. Text files sampled from _Holas Radzimy_ are enumerated consistently, `1` to `150`. Older newspapers are presented in larger chunks, one file by month (numbers in the file names are actually month numbers).
 
 ## Software ##
 
@@ -49,6 +52,8 @@ Note that we have two copies of the same search engine just for convenience. You
 ## What's new ##
 
 _2013-04-01 release:_ We've added a tokenization tool and rewritten indexer and finder to speed up the search in tokenized texts. Word counts have been omitted.
+
+_2013-04-15 release:_ A searchable diachronic newspaper collection is now available, description is coming soon. (See `/np_old/DEPENDENCIES.md` for a sketch.)
 
 ## Directions of future work ##
 
