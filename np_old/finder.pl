@@ -7,7 +7,6 @@ use List::Util;
 
 # Command line options: -w is left & right context width in tokens
 getopts('w:');
-$width = $opt_w;
 
 $hashref = retrieve('index.dat');
 %inverted_index = %{$hashref};
@@ -59,11 +58,12 @@ foreach $f (keys %files_to_open)
 	foreach $pair (keys %{$files_to_open{$f}})
 		{
 		($l, $id) = split (/\t/, $pair);
-		if ($l - $width < 0) { $start = 0; }
-		else { $start = $l - $width; }
-		if ($l + $width > $#lines) { $finish = $#lines; }
-		else { $finish = $l + $width; }
-		print FILEOUT join ("\t", ($f, $id, $lines[$l], join (" ", @lines[$start..$l-1]), $lines[$l], join (" ", @lines[$l+1..$finish]))) . "\n";
+		if ($l - $opt_w < 0) { $start = 0; }
+		else { $start = $l - $opt_w; }
+		if ($l + $opt_w > $#lines) { $finish = $#lines; }
+		else { $finish = $l + $opt_w; }
+		# print FILEOUT join ("\t", ($f, $id, $lines[$l], join (" ", @lines[$start..$l-1]), $lines[$l], join (" ", @lines[$l+1..$finish]))) . "\n";
+		print FILEOUT join ("\t", ($f, $id, join (" ", @lines[$start..$l-1]), $lines[$l], join (" ", @lines[$l+1..$finish]))) . "\n";
 		}
 	}
 close (FILEOUT);
