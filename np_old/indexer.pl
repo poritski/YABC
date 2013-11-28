@@ -2,6 +2,11 @@
 use locale;
 use Storable;
 
+# Autoflush mode on. Do not disable
+$| = 1;
+
+print STDOUT "Indexing old newspapers...\t";
+
 %inverted_index = ();
 %words = ();
 
@@ -36,3 +41,5 @@ store \%inverted_index, 'index.dat';
 open (FILEOUT, ">wforms.txt");
 foreach (keys %words) { print FILEOUT "$_\t$words{$_}\n"; }
 close (FILEOUT);
+
+print STDOUT "Done\n";

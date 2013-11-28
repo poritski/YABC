@@ -1,0 +1,65 @@
+1	Jakub_Kolas/Dryhva.txt	Якуб Колас	Дрыгва	Аповесць	1933	http://www.rv-blr.com/demo/all_glava/5889
+2	Jakub_Kolas/k_1.txt	Якуб Колас	Адзiнокi курган	Казка	1921-1956 (1955?)	http://knihi.com/Jakub_Kolas/Adzinoki_kurhan.html
+3	Jakub_Kolas/k_10.txt	Якуб Колас	Зло – не заўсёды зло	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Zlo_-_nie_zausiody_zlo.html
+4	Jakub_Kolas/k_11.txt	Якуб Колас	Кажух старога Анiсiма	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Kazuch_staroha_Anisima.html
+5	Jakub_Kolas/k_12.txt	Якуб Колас	Камень	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Kamien.html
+6	Jakub_Kolas/k_13.txt	Якуб Колас	Крынiца	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Krynica.html
+7	Jakub_Kolas/k_14.txt	Якуб Колас	Купальскiя светлякi	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Kupalskija_svietlaki.html
+8	Jakub_Kolas/k_15.txt	Якуб Колас	Кучаравае дрэва	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Kucaravaje_dreva.html
+9	Jakub_Kolas/k_16.txt	Якуб Колас	На ўсё ёсць прычына	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Na_usio_josc_prycyna.html
+10	Jakub_Kolas/k_17.txt	Якуб Колас	На чужым грунце	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Na_cuzym_hruncie.html
+11	Jakub_Kolas/k_18.txt	Якуб Колас	Над прасторамi зямлi	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Nad_prastorami_ziamli.html
+12	Jakub_Kolas/k_19.txt	Якуб Колас	Ноч, калi папараць цвiце	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Noc,_kali_paparac_cvicie.html
+13	Jakub_Kolas/k_2.txt	Якуб Колас	Адзiнокае дрэва	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Adzinokaje_dreva.html
+14	Jakub_Kolas/k_20.txt	Якуб Колас	Стары лес	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Stary_les.html
+15	Jakub_Kolas/k_21.txt	Якуб Колас	Страказа	Казка	1921-1956 (1955?)	http://knihi.com/Jakub_Kolas/Strakaza.html
+16	Jakub_Kolas/k_22.txt	Якуб Колас	Супраць вады	Казка	1921-1956 (1917?)	http://knihi.com/Jakub_Kolas/Suprac_vady.html
+17	Jakub_Kolas/k_23.txt	Якуб Колас	У балоце	Казка	1921-1956 (1908?)	http://knihi.com/Jakub_Kolas/U_balocie.html
+18	Jakub_Kolas/k_24.txt	Якуб Колас	У чым iх сiла	Казка	1921-1956	http://knihi.com/Jakub_Kolas/U_cym_ich_sila.html
+19	Jakub_Kolas/k_25.txt	Якуб Колас	Хвароба	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Chvaroba.html
+20	Jakub_Kolas/k_26.txt	Якуб Колас	Хмарка	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Chmarka.html
+21	Jakub_Kolas/k_27.txt	Якуб Колас	Цвiркун	Казка	1921-1956 (1955?)	http://knihi.com/Jakub_Kolas/Cvirkun.html
+22	Jakub_Kolas/k_28.txt	Якуб Колас	Чортаў камень	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Cortau_kamien.html
+23	Jakub_Kolas/k_29.txt	Якуб Колас	Чыя праўда?	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Cyja_prauda.html
+24	Jakub_Kolas/k_3.txt	Якуб Колас	Асiнае гняздо	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Asinaje_hniazdo.html
+25	Jakub_Kolas/k_30.txt	Якуб Колас	Што лепей?	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Sto_lepiej.html
+26	Jakub_Kolas/k_31.txt	Якуб Колас	Што яны страцiлi	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Sto_jany_stracili.html
+27	Jakub_Kolas/k_32.txt	Якуб Колас	Як птушкi дуб ратавалi	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Jak_ptuski_dub_ratavali.html
+28	Jakub_Kolas/k_4.txt	Якуб Колас	Балотны агонь	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Balotny_ahon.html
+29	Jakub_Kolas/k_5.txt	Якуб Колас	Вадаспад	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Vadaspad.html
+30	Jakub_Kolas/k_6.txt	Якуб Колас	Гусi	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Husi.html
+31	Jakub_Kolas/k_7.txt	Якуб Колас	Даль	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Dal.html
+32	Jakub_Kolas/k_8.txt	Якуб Колас	Жывая вада	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Zyvaja_vada.html
+33	Jakub_Kolas/k_9.txt	Якуб Колас	Залаты прамень	Казка	1921-1956	http://knihi.com/Jakub_Kolas/Zalaty_pramien.html
+34	Jakub_Kolas/Na_rostanyakh.txt	Якуб Колас	На ростанях	Аповесць	1948-1954	http://knihi.com/Jakub_Kolas/Na_rostaniach_T2.html
+35	Jakub_Kolas/U_hlybi_Palessja.txt	Якуб Колас	У глыбі Палесся	Аповесць	1927	http://knihi.com/Jakub_Kolas/U_hlybi_Palessia.html
+36	Jakub_Kolas/U_paleskaj_hlusy.txt	Якуб Колас	У палескай глушы	Аповесць	1923	http://knihi.com/Jakub_Kolas/U_paleskaj_hlusy.html
+37	Kuzma_Corny/Chvoi_havorac.txt	Кузьма Чорны	Хвоі гавораць	Апавяданне	1926	http://knihi.com/Kuzma_Corny/Chvoi_havorac.html
+38	Kuzma_Corny/Lavon_Busmar.txt	Кузьма Чорны	Лявон Бушмар	Аповесць	1929	http://knihi.com/Kuzma_Corny/Lavon_Busmar.html
+39	Kuzma_Corny/Makarkavych_Volka.txt	Кузьма Чорны	Макаркавых Волька	Апавяданне	1938	http://knihi.com/Kuzma_Corny/Makarkavych_Volka.html
+40	Kuzma_Corny/Mlecny_Slach.txt	Кузьма Чорны	Млечны Шлях	Раман	1944	http://knihi.com/Kuzma_Corny/Mlecny_Slach.html
+41	Kuzma_Corny/Posuki_buducyni.txt	Кузьма Чорны	Пошукі будучыні	Раман	1943-1944	http://knihi.com/Kuzma_Corny/Posuki_buducyni.html
+42	Kuzma_Corny/Srebra_zyccia.txt	Кузьма Чорны	Срэбра жыцця	Апавяданне	1925	http://knihi.com/Kuzma_Corny/Srebra_zyccia.html
+43	Kuzma_Corny/Vierasniovyja_nocy.txt	Кузьма Чорны	Вераснёвыя ночы	Апавяданне	1928	http://knihi.com/Kuzma_Corny/Vierasniovyja_nocy.html
+44	Kuzma_Corny/Zautrasni_dzien.txt	Кузьма Чорны	Заўтрашні дзень	Аповесць	1944	http://knihi.com/Kuzma_Corny/Zautrasni_dzien.html
+45	Maksim_Harecki/Dosvitki.txt	Максім Гарэцкі	Досвіткі	Апавяданне	1926	http://knihi.com/Maksim_Harecki/Dosvitki.html
+46	Maksim_Harecki/Dziohac.txt	Максім Гарэцкі	Дзёгаць	Апавяданне	1915	http://knihi.com/Maksim_Harecki/Dziohac.html
+47	Maksim_Harecki/Dzvie_dusy.txt	Максім Гарэцкі	Дзве душы	Аповесць	1919	http://knihi.com/Maksim_Harecki/Dzvie_dusy.html
+48	Maksim_Harecki/Litouski_chutarok.txt	Максім Гарэцкі	Літоўскі хутарок	Аповесць	1915	http://knihi.com/Maksim_Harecki/Litouski_chutarok.html
+49	Maksim_Harecki/Rodnaje_karennie.txt	Максім Гарэцкі	Роднае карэнне	Аповесць	1913	http://knihi.com/Maksim_Harecki/Rodnaje_karennie.html
+50	Maksim_Harecki/Ruski.txt	Максім Гарэцкі	Рускі	Апавяданне	1915	http://knihi.com/Maksim_Harecki/Ruski.html
+51	Maksim_Harecki/U_cym_jaho_kryuda.txt	Максім Гарэцкі	У чым яго крыўда?	Аповесць	1925-1926	http://knihi.com/Maksim_Harecki/U_cym_jaho_kryuda.html
+52	Maksim_Harecki/Viasna.txt	Максім Гарэцкі	Вясна	Апавяданне	1914	http://knihi.com/Maksim_Harecki/Viasna.html
+53	Michas_Zarecki/Adna_partyja_u_saski.txt	Міхась Зарэцкі	Адна партыя ў шашкі	Апавяданне	1924	http://knihi.com/Michas_Zarecki/Adna_partyja_u_saski.html
+54	Michas_Zarecki/Backau_syn.txt	Міхась Зарэцкі	Бацькаў сын	Апавяданне	1932	http://knihi.com/Michas_Zarecki/Backau_syn.html
+55	Michas_Zarecki/Dvoje_Zvirouskich.txt	Міхась Зарэцкі	Двое Жвіроўскіх	Апавяданне	1926	http://knihi.com/Michas_Zarecki/Dvoje_Zvirouskich.html
+56	Michas_Zarecki/Holy_zvier.txt	Міхась Зарэцкі	Голы звер	Аповесць	1926	http://knihi.com/Michas_Zarecki/Holy_zvier.html
+57	Michas_Zarecki/Kvietka_pazouklaja.txt	Міхась Зарэцкі	Кветка пажоўклая	Апавяданне	1926	http://knihi.com/Michas_Zarecki/Kvietka_pazouklaja.html
+58	Michas_Zarecki/U_viry_zyccia.txt	Міхась Зарэцкі	У віры жыцця	Апавяданне	1923	http://knihi.com/Michas_Zarecki/U_viry_zyccia.html
+59	Michas_Zarecki/Vorahi.txt	Міхась Зарэцкі	Ворагі	Апавяданне	1923	http://knihi.com/Michas_Zarecki/Vorahi.html
+60	Michas_Zarecki/Z_nasych_dzion.txt	Міхась Зарэцкі	З нашых дзён	Апавяданне	1923	http://knihi.com/Michas_Zarecki/Z_nasych_dzion.html
+61	Zmitrok_Biadula/Na_Kalady_k_synu.txt	Змітрок Бядуля	На Каляды к сыну	Апавяданне	1913	http://knihi.com/Zmitrok_Biadula/Na_Kalady_k_synu.html
+62	Zmitrok_Biadula/Piac_lyzak_zacirki.txt	Змітрок Бядуля	Пяць лыжак заціркі	Апавяданне	1912	http://knihi.com/Zmitrok_Biadula/Piac_lyzak_zacirki.html
+63	Zmitrok_Biadula/Salaviej.txt	Змітрок Бядуля	Салавей	Аповесць	1928	http://knihi.com/Zmitrok_Biadula/Salaviej.html
+64	Zmitrok_Biadula/U_drymucych_lasach.txt	Змітрок Бядуля	У дрымучых лясах	Аповесць	1939	http://knihi.com/Zmitrok_Biadula/U_drymucych_lasach.html
+65	Zmitrok_Biadula/Vielikodnyja_jajki.txt	Змітрок Бядуля	Велікодныя яйкі	Апавяданне	1913	http://knihi.com/Zmitrok_Biadula/Vielikodnyja_jajki.html

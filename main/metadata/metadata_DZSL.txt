@@ -1,0 +1,105 @@
+1	38_and.txt	Міхась Андрасюк	Галубы (з нізкі “Вагон другога класу”)	Аповед	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/and38?OpenDocument
+2	38_dran.txt	Леанід Дранько-Майсюк	Горад Боны і Давіда	Альбомная проза	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dran38?OpenDocument
+3	38_dubav.txt	Сяргей Дубавец	Кайлюс і Зелба	Зімовая казка	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dubav38?OpenDocument
+4	38_fed.txt	Андрэй Федарэнка 	Сечка-11	Запісы	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/fed38?OpenDocument
+5	38_prav.txt	Натальля Правалінская	Абарона для пяткі	Калядны трылер	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/prav38?OpenDocument
+6	38_rub.txt	Сяргей Рублеўскі	Арні і Берк	Аповед	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/rub38?OpenDocument
+7	38_tar.txt	Кастусь Тарасаў	На вайне	Аповесьць	Дзеяслоў, 2009, №1 (38)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/tar38?OpenDocument
+8	39_bab.txt	Наталка Бабіна	Нячэсная кава	Аповед	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/bab39?OpenDocument
+9	39_babk.txt	Ігар Бабкоў	Восень у Гародні	Аповед	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/babk39?OpenDocument
+10	39_byl.txt	Віталь Быль	Малюнкі з Адзіж-Бенах	Аповед	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/byl39?OpenDocument
+11	39_dub_a.txt	Сяргей Дубавец	Чалавек без галавы	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dub39?OpenDocument
+12	39_dub_b.txt	Сяргей Дубавец	Чучундра. Падарожжа прафесара Солада й доктара Зайца (Блюма)	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dub39?OpenDocument
+13	39_hil.txt	Ніл Гілевіч	Перажыўшы вайну	Новыя абразкі з аповесьці	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hil39?OpenDocument
+14	39_niak_a.txt	Уладзімір Някляеў	Цмок	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/niak39?OpenDocument
+15	39_niak_b.txt	Уладзімір Някляеў	Браты	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/niak39?OpenDocument
+16	39_niak_c.txt	Уладзімір Някляеў	Музей Броўкі, альбо За шчасьце выпіць з Шульманам!	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/niak39?OpenDocument
+17	39_niak_d.txt	Уладзімір Някляеў	Алімпійскія гульні	Апавяданьне	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/niak39?OpenDocument
+18	39_tar.txt	Алесь Тарановіч	Яны	Згадка дзён мінулых	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/tar39?OpenDocument
+19	39_xar.txt	Наталка Харытанюк	Бадзяжкі Дхармы	Аповед	Дзеяслоў, 2009, №2 (39)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/xar39?OpenDocument
+20	40_ast.txt	Сяргей Астравец	Флот каўчэгаў	Аповед пра пакінуты рай	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ast40?OpenDocument
+21	40_dub.txt	Сяргей Дубавец	Баль	Практыкаваньне	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dub40?OpenDocument
+22	40_hil.txt	Ніл Гілевіч	Забаўныя гісторыі з жыцьця пісьменьнікаў 	Апавяданьні	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hil40?OpenDocument
+23	40_mix_a.txt	Уладзімір Міхно	Тэлефон і паэт	Аповед	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mix40?OpenDocument
+24	40_mix_b.txt	Уладзімір Міхно	Вясна з усьмешкаю мамы... 	Аповед у імпрэсіях	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mix40?OpenDocument
+25	40_mud.txt	Вінцэсь Мудроў	Сьцяг над царквою	Аповед	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mud40?OpenDocument
+26	40_scieb_a.txt	Усевалад Сьцебурака	Тры каралі	Аповед	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/scieb40?OpenDocument
+27	40_scieb_b.txt	Усевалад Сьцебурака	Казка	Аповед	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/scieb40?OpenDocument
+28	40_scieb_c.txt	Усевалад Сьцебурака	Ялінка	Аповед	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/scieb40?OpenDocument
+29	40_viac.txt	Ксеня Вяцкая	Цягнiкi пахнуць кветкамі	Імпрэсіі	Дзеяслоў, 2009, №3 (40)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/viac40?OpenDocument
+30	41_kach.txt	Паліна Качаткова	Дрэвы, сьпілаваныя зімой	Зацемкі	Дзеяслоў, 2009, №4 (41)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kach41?OpenDocument
+31	41_lis.txt	Дар'я Ліс	Непалітычнае забойства	Аповесьць	Дзеяслоў, 2009, №4 (41)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/lis41?OpenDocument
+32	41_maj.txt	Леанід Дранько-Майсюк	У Вільні і больш нідзе	[Аповесць]	Дзеяслоў, 2009, №4 (41)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/maj41?OpenDocument
+33	41_siu.txt	Франц Сіўко	Тыдзень Вялікай Коткі	Аповесьць	Дзеяслоў, 2009, №4 (41)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/siu41?OpenDocument
+34	42_hlux.txt	Кацярына Глухоўская	Перажыткі 	Аповед	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hlux42?OpenDocument
+35	42_kaz.txt	Віктар Казько	Сказ пра ката, каторы сьмяяўся	Аповесьць	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kaz42?OpenDocument
+36	42_led.txt	Віктар Ледзенеў	Гразь 	Апавяданьне	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/led42?OpenDocument
+37	42_sin.txt	Ільля Сін	Тэатральныя дэманы	Урыўкі	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/sin42?OpenDocument
+38	42_ver_a.txt	Сяргей Вераціла	Вузел	Апавяданьне	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ver42?OpenDocument
+39	42_ver_b.txt	Сяргей Вераціла	Такое сямейнае шчасьце	Апавяданьне	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ver42?OpenDocument
+40	42_vis.txt	Зьміцер Вішнёў	Замак пабудаваны з крапівы	Урывак з раману	Дзеяслоў, 2009, №5 (42)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/vis42?OpenDocument
+41	43_ar.txt	Алесь Аркуш	Палімпсест	Урывак з раману	Дзеяслоў, 2009, №6 (43)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ar43?OpenDocument
+42	43_kazak.txt	Валеры Казакоў	Крыж Еўфрасіньні	Апавяданьне	Дзеяслоў, 2009, №6 (43)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kazak43?OpenDocument
+43	43_sid.txt	Ігар Сідарук	Стадыён	Апавяданьне	Дзеяслоў, 2009, №6 (43)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/sid43?OpenDocument
+44	44_fran.txt	Франак Вячорка	Ліза	Аповед	Дзеяслоў, 2010, №1 (44)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/fran44?OpenDocument
+45	44_kal.txt	Сяргей Календа	Гульня ў інтэлект	Мініяцюры	Дзеяслоў, 2010, №1 (44)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kal44?OpenDocument
+46	44_nies.txt	Юры Несцярэнка	Аднакласнікі. Gov	Апавяданне	Дзеяслоў, 2010, №1 (44)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/nies44?OpenDocument
+47	44_trav.txt	Кастусь Травень	Роспач (Фрагмент апавядання «Час збіраць камяні» з кніжкі «Гульня белымі фігурамі»)	Апавяданне	Дзеяслоў, 2010, №1 (44)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/trav44?OpenDocument
+48	45_char.txt	Сяргей Чарановіч	Плынь розуму	Мініяцюры	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/char45?OpenDocument
+49	45_dajn.txt	Леанід Дайнека	Пра лісоўчыка, злога хлопчыка	Раман	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/dajn45?OpenDocument
+50	45_mud_a.txt	Вінцэсь Мудроў	Мішка Чобат 	Апавяданьне	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mud45?OpenDocument
+51	45_mud_b.txt	Вінцэсь Мудроў	Лёгкая смерць	Апавяданьне	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mud45?OpenDocument
+52	45_piat.txt	Барыс Пятровіч	Нічый Чарнобыль	Згадкі пра вясну 1986 года	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/piat45?OpenDocument
+53	45_vor.txt	Віталь Воранаў	Nomen omen	Апавяданне	Дзеяслоў, 2010, №2 (45)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/vor45?OpenDocument
+54	46_cvir.txt	Кастусь Цвірка	Лось	Апавяданне	Дзеяслоў, 2010, №3 (46)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/cvir46?OpenDocument
+55	46_maj.txt	Леанід Дранько-Майсюк	Далькажык	Апавяданьне	Дзеяслоў, 2010, №3 (46)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/maj46?OpenDocument
+56	46_mix.txt	Уладзімір Міхно	Сібірака	Апавяданне	Дзеяслоў, 2010, №3 (46)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mix46?OpenDocument
+57	47_rub.txt	Людміла Рублеўская	Сутарэнні Ромула	Раман	Дзеяслоў, 2010, №4 (47)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/rub47?OpenDocument
+58	47_up.txt	Анка Упала	Інь-Ян	Іранічныя аповеды	Дзеяслоў, 2010, №4 (47)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/up47?OpenDocument
+59	48_fed.txt	Андрэй Федарэнка	Сечка-13	[Запісы]	Дзеяслоў, 2010, №5 (48)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/fed48?OpenDocument
+60	48_klin.txt	Артур Клінаў	Скарб Радзівілаў	Урывак з раману “Шалом”	Дзеяслоў, 2010, №5 (48)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/klin48?OpenDocument
+61	48_luk.txt	Аляксандр Лукашук	Cаша what is your name?.. 	Спроба заўчасных успамінаў	Дзеяслоў, 2010, №5 (48)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/luk48?OpenDocument
+62	49_iv.txt	Алеся Іванькова	Чырвонае паліто	Аповед	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/iv49?OpenDocument
+63	49_kac.txt	Паліна Качаткова	Чалавек-жанчына	Кароткія аповеды	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kac49?OpenDocument
+64	49_kryv.txt	Раіса Крывальцэвіч	Асцярожна! Дзверы... 	Зацемкі з натуры	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kryv49?OpenDocument
+65	49_mar.txt	Уладзімір Марук	Намоўленае	Абрысы няспраўджаных вершаў	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mar49?OpenDocument
+66	49_sit.txt	Рыгор Сітніца	Ой, хадзем жа мы...	Калядная паэма 	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/sit49?OpenDocument
+67	49_tob_a.txt	Анатоль Івашчанка	Гледачы 	Аповед	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/tob49?OpenDocument
+68	49_tob_b.txt	Анатоль Івашчанка	Сын палка 	Аповед	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/tob49?OpenDocument
+69	49_tob_c.txt	Анатоль Івашчанка	Save 	Аповед	Дзеяслоў, 2010, №6 (49)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/tob49?OpenDocument
+70	50_ad.txt	Славамір Адамовіч	Цана Еўропы, альбо Гісторыі Вільмана	Раман	Дзеяслоў, 2011, №1 (50)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ad50?OpenDocument
+71	50_nies.txt	Юрась Несцярэнка	Перамены	Апавяданне	Дзеяслоў, 2011, №1 (50)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/nies50?OpenDocument
+72	50_rub.txt	Сяргей Рублеўскі	Святло лускі (З кнігі для тых, хто любіць лавіць рыбу ўсім сэрцам) 	Аповесць	Дзеяслоў, 2011, №1 (50)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/rub50?OpenDocument
+73	50_spr.txt	Аксана Спрынчан	Беларускі дурань	Жаноцкі раман і крыху гною	Дзеяслоў, 2011, №1 (50)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/spr50?OpenDocument
+74	50_vier.txt	Сяргей Вераціла	Сержык	Апавяданне	Дзеяслоў, 2011, №1 (50)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/vier50?OpenDocument
+75	51_ad.txt	Славамір Адамовіч	Цана Еўропы	Раман	Дзеяслоў, 2011, №2 (51)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/ad51?OpenDocument
+76	51_bub.txt	Уладзіслаў Бубен	Некрапацук	Урывак з казкі для дарослых	Дзеяслоў, 2011, №2 (51)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/bub51?OpenDocument
+77	51_mud.txt	Вінцэсь Мудроў	Нячысцік	Аповед	Дзеяслоў, 2011, №2 (51)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mud51?OpenDocument
+78	51_sad.txt	Уладзімір Садоўскі	3.15	Аповед	Дзеяслоў, 2011, №2 (51)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/sad51?OpenDocument
+79	52_jar.txt	Наталля Ярмольчык	Блог анёла	Аповед	Дзеяслоў, 2011, №3 (52)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/jar52?OpenDocument
+80	52_kal.txt	Сяргей Календа	Хлеб свой пускай па вадзе	Прыпавесць	Дзеяслоў, 2011, №3 (52)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kal52?OpenDocument
+81	52_kar.txt	Галіна Каржанеўская	Прыхадні	Прыпавесць	Дзеяслоў, 2011, №3 (52)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kar52?OpenDocument
+82	52_karam.txt	Віктар Карамазаў	Мастак і парабкі	Раман	Дзеяслоў, 2011, №3 (52)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/karam52?OpenDocument
+83	52_sid.txt	Ігар Сідарук	Мама, як сонейка	Прыпавесць	Дзеяслоў, 2011, №3 (52)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/sid52?OpenDocument
+84	53_bab.txt	Ігар Бабкоў	Партрэт мастака, нябачны ў сутонні	Раман	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/bab53?OpenDocument
+85	53_hil.txt	Ніл Гілевіч	Трагічны дзевяноста шосты	Выбраныя старонкі дзённіка	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hil53?OpenDocument
+86	53_hiz_a.txt	Алесь Гізун	Напаўголасу 	Навела	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hiz53?OpenDocument
+87	53_hiz_b.txt	Алесь Гізун	Гадзіннікі 	Навела	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hiz53?OpenDocument
+88	53_hiz_c.txt	Алесь Гізун	Боўць, або Трэцяя рука мастака Руневіча	Навела	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/hiz53?OpenDocument
+89	53_kirk.txt	Алесь Кіркевіч	Вясна. Анталія. Вялікдзень. Філасофія турэмнага дворыка	[Абразок]	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kirk53?OpenDocument
+90	53_majs.txt	Леанід Дранько-Майсюк	У Вільні і больш нідзе	[Аповесць]	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/majs53?OpenDocument
+91	53_rub.txt	Людміла Рублеўская	Бестыарый майго савецкага дзяцінства	[Бестыарый]	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/rub53?OpenDocument
+92	53_stas.txt	Кірыла Стаселька	Вечныя дзеці	Аповед	Дзеяслоў, 2011, №4 (53)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/stas53?OpenDocument
+93	54_fed.txt	Андрэй Федарэнка	Сечка-15	Запісы	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/fed54?OpenDocument
+94	54_kaz_a.txt	Віктар Казько	Пра Моцю і карову  	Апавяданне	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kaz54?OpenDocument
+95	54_kaz_b.txt	Віктар Казько	Моця і свет 	Апавяданне	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kaz54?OpenDocument
+96	54_kaz_c.txt	Віктар Казько	Пра Моцю і яго сястрычку  	Апавяданне	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kaz54?OpenDocument
+97	54_kaz_d.txt	Віктар Казько	Пра Моцю і хлопчыка Вовачку 	Апавяданне	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/kaz54?OpenDocument
+98	54_saz.txt	Віктар Сазонаў	Залік па ЧэГэДэ	Апавяданне	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/saz54?OpenDocument
+99	54_scur.txt	Макс Шчур	Аўтсайдэр	Аповесць	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/scur54?OpenDocument
+100	54_us.txt	Алесь Усеня	Мой лістапад... 	Згадкі	Дзеяслоў, 2011, №5 (54)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/us54?OpenDocument
+101	55_mud.txt	Вінцэсь Мудроў	Шпег	Навела	Дзеяслоў, 2011, №6 (55)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/mud55?OpenDocument
+102	55_pas.txt	Алесь Пашкевіч	Сім победиши	Раман-прыпавесць	Дзеяслоў, 2011, №6 (55)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/pas55?OpenDocument
+103	55_us.txt	Алесь Усеня	Мой лістапад...	Згадкі	Дзеяслоў, 2011, №6 (55)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/us55?OpenDocument
+104	55_vez_a.txt	Ева Вежнавец	Заўжды адна	Апавяданне	Дзеяслоў, 2011, №6 (55)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/vez55?OpenDocument
+105	55_vez_b.txt	Ева Вежнавец	Любоў зла	Апавяданне	Дзеяслоў, 2011, №6 (55)	http://www.dziejaslou.by/inter/dzeja/dzeja.nsf/htmlpage/vez55?OpenDocument

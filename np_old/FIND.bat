@@ -1,2 +1,2 @@
-perl finder.pl 10
+perl finder.pl -w 10
 pause

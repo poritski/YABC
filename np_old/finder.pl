@@ -1,10 +1,13 @@
 #! /usr/bin/perl -w
 use locale;
+use Getopt::Std;
 use Storable;
 use Encode;
 use List::Util;
 
-$width = 10; # left & right context width in tokens
+# Command line options: -w is left & right context width in tokens
+getopts('w:');
+$width = $opt_w;
 
 $hashref = retrieve('index.dat');
 %inverted_index = %{$hashref};
@@ -15,8 +18,8 @@ while (<WORDLIST>)
 	chomp;
 	unless (/^\#/) # except those queries which are commented out
 		{
-		($query, $signature) = ($_, $_); # by default
-		if (/\t/) { ($query, $signature) = split (/\t/, $_); } # queries with IDs
+		($signature, $query) = ($_, $_); # by default
+		if (/\t/) { ($signature, $query) = split (/\t/, $_); } # queries with IDs
 		push @queries, $query;
 		$substitute{$query} = $signature;
 		}

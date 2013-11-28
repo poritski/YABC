@@ -1,4 +1,0 @@
-./mags/mal/
-./mags/pol/
-./mags/dzsl/
-./kolas/

@@ -1,0 +1,7 @@
+MAL	1
+POL	1
+DZSL	1
+G	1
+ZV	1
+ZM	1
+OLD	1
