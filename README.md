@@ -1,5 +1,5 @@
-### [Па-беларуску](docs/readme_BE.md) ###
+п»ї### [РџР°-Р±РµР»Р°СЂСѓСЃРєСѓ](docs/readme_BE.md) ###
 
-### [По-русски](docs/readme_RU.md) ###
+### [РџРѕ-СЂСѓСЃСЃРєРё](docs/readme_RU.md) ###
 
 ### [In English](docs/readme_EN.md) ###
